@@ -1,608 +1,506 @@
-﻿Equipo;Jugador;Posición;Puntos;Precio;PJ;Casa;Fuera;Media
-Tottenham;Richarlison;Delantero;20;3730000;1;1;0;20.00
-Nottingham Forest;Wood;Delantero;19;6430000;1;1;0;19.00
-AFC Bournemouth;Semenyo;Delantero;18;7380000;1;0;1;18.00
-Sunderland;Daniel Ballard;Defensa;18;1760000;1;1;0;18.00
-Manchester City;Haaland;Delantero;17;18340000;1;0;1;17.00
-Liverpool;Cody Gakpo;Delantero;15;8410000;1;1;0;15.00
-Arsenal;Calafiori;Defensa;15;2960000;1;0;1;15.00
-Liverpool;Salah;Delantero;14;18460000;1;1;0;14.00
-Liverpool;Hugo Ekitiké;Delantero;14;10420000;1;1;0;14.00
-Manchester City;Reijnders;Centrocampista;14;9890000;1;0;1;14.00
-Tottenham;Kudus;Delantero;14;5840000;1;1;0;14.00
-Sunderland;Wilson Isidor;Delantero;12;710000;1;1;0;12.00
-Manchester City;Rayan Cherki;Delantero;11;8640000;1;0;1;11.00
-Tottenham;Brennan Johnson;Delantero;11;5610000;1;1;0;11.00
-Brighton & Hove Albion;Van Hecke;Defensa;11;3670000;1;1;0;11.00
-Liverpool;Chiesa;Delantero;11;1520000;1;1;0;11.00
-Arsenal;David Raya;Portero;10;6400000;1;0;1;10.00
-Nottingham Forest;Dan Ndoye;Delantero;10;4990000;1;1;0;10.00
-Tottenham;Vicario;Portero;10;4500000;1;1;0;10.00
-Tottenham;Pape Sarr;Centrocampista;10;4430000;1;1;0;10.00
-Sunderland;Mayenda;Delantero;10;1990000;1;1;0;10.00
-Manchester United;Bruno Fernandes;Centrocampista;9;15270000;1;1;0;9.00
-Chelsea;Reece James;Defensa;9;4410000;1;1;0;9.00
-Newcastle;Schär;Defensa;9;3530000;1;0;1;9.00
-Brighton & Hove Albion;Matt O'Riley;Centrocampista;9;2900000;1;1;0;9.00
-Manchester City;Rico Lewis;Defensa;9;2560000;1;0;1;9.00
-Fulham;Rodrigo Muniz;Delantero;9;2410000;1;0;1;9.00
-Arsenal;Ødegaard;Centrocampista;8;12770000;1;0;1;8.00
-Chelsea;Moisés Caicedo;Centrocampista;8;10240000;1;1;0;8.00
-Liverpool;Van Dijk;Defensa;8;9080000;1;1;0;8.00
-Manchester City;Aït Nouri;Centrocampista;8;6900000;1;0;1;8.00
-Tottenham;Pedro Porro;Defensa;8;6410000;1;1;0;8.00
-Newcastle;Pope;Portero;8;5110000;1;0;1;8.00
-Nottingham Forest;Elliot Anderson;Centrocampista;8;4180000;1;1;0;8.00
-Aston Villa;Kamara;Centrocampista;8;3170000;1;1;0;8.00
-Manchester City;Nico González;Centrocampista;8;2580000;1;0;1;8.00
-Aston Villa;Matty Cash;Defensa;8;2560000;1;1;0;8.00
-Leeds United;Lukas Nmecha;Delantero;8;660000;1;1;0;8.00
-Arsenal;Saliba;Defensa;7;7040000;1;0;1;7.00
-Manchester United;Amad Diallo;Delantero;7;6230000;1;1;0;7.00
-Manchester City;Rúben Dias;Defensa;7;5450000;1;0;1;7.00
-Crystal Palace;Henderson;Portero;7;3850000;1;0;1;7.00
-Crystal Palace;Maxence Lacroix;Defensa;7;3660000;1;0;1;7.00
-AFC Bournemouth;Petrovic;Portero;7;3650000;1;0;1;7.00
-Manchester United;De Ligt;Defensa;7;3160000;1;1;0;7.00
-Brighton & Hove Albion;Dunk;Defensa;7;3140000;1;1;0;7.00
-Chelsea;Chalobah;Defensa;7;3110000;1;1;0;7.00
-Manchester City;Trafford;Portero;7;2940000;1;0;1;7.00
-Fulham;Kenny Tete;Defensa;7;2800000;1;0;1;7.00
-Crystal Palace;Chris Richards;Defensa;7;2240000;1;0;1;7.00
-Sunderland;Omar Alderete;Defensa;7;2130000;1;1;0;7.00
-Manchester City;Stones;Defensa;7;2080000;1;0;1;7.00
-Brentford FC;Igor Thiago;Delantero;7;1990000;1;0;1;7.00
-Manchester City;Oscar Bobb;Centrocampista;7;1590000;1;0;1;7.00
-Leeds United;Gudmundsson;Defensa;7;1460000;1;1;0;7.00
-Chelsea;Acheampong;Defensa;7;520000;1;1;0;7.00
-Arsenal;Zubimendi;Centrocampista;6;8990000;1;0;1;6.00
-Chelsea;Pedro Neto;Delantero;6;7840000;1;1;0;6.00
-Manchester City;Bernardo Silva;Centrocampista;6;7830000;1;0;1;6.00
-Chelsea;Cucurella;Defensa;6;7360000;1;1;0;6.00
-Newcastle;Elanga;Delantero;6;6450000;1;0;1;6.00
-Everton;Tarkowski;Defensa;6;5750000;1;0;1;6.00
-Tottenham;Cristian Romero;Defensa;6;5460000;1;1;0;6.00
-Newcastle;Livramento;Defensa;6;3670000;1;0;1;6.00
-Aston Villa;Amadou Onana;Centrocampista;6;3600000;1;1;0;6.00
-Manchester United;Casemiro;Centrocampista;6;3220000;1;1;0;6.00
-Fulham;Joachim Andersen;Defensa;6;3100000;1;0;1;6.00
-Brighton & Hove Albion;Georginio Rutter;Delantero;6;2970000;1;1;0;6.00
-Arsenal;Ben White;Defensa;6;2960000;1;0;1;6.00
-Nottingham Forest;Aina;Defensa;6;2790000;1;1;0;6.00
-Brighton & Hove Albion;Yasin Ayari;Centrocampista;6;2760000;1;1;0;6.00
-Everton;Dewsbury-Hall;Centrocampista;6;2600000;1;0;1;6.00
-Leeds United;Anton Stach;Centrocampista;6;2210000;1;1;0;6.00
-Sunderland;Trai Hume;Defensa;6;1520000;1;1;0;6.00
-Crystal Palace;Will Hughes;Centrocampista;6;1490000;1;0;1;6.00
-Leeds United;Aaronson;Delantero;6;1080000;1;1;0;6.00
-Sunderland;Jenson Seelt;Defensa;6;550000;1;1;0;6.00
-Manchester United;Matheus Cunha;Delantero;5;12530000;1;1;0;5.00
-Liverpool;Mac Allister;Centrocampista;5;10020000;1;1;0;5.00
-Nottingham Forest;Gibbs-White;Centrocampista;5;8470000;1;1;0;5.00
-Arsenal;Magalhães;Defensa;5;6550000;1;0;1;5.00
-Fulham;Iwobi;Delantero;5;6080000;1;0;1;5.00
-West Ham United;Lucas Paquetá;Centrocampista;5;5570000;1;0;1;5.00
-Nottingham Forest;Murillo;Defensa;5;4720000;1;1;0;5.00
-Crystal Palace;Marc Guehi;Defensa;5;4110000;1;0;1;5.00
-Crystal Palace;Ismaïla Sarr;Delantero;5;4060000;1;0;1;5.00
-Nottingham Forest;Hudson-Odoi;Delantero;5;4030000;1;1;0;5.00
-Newcastle;Trippier;Defensa;5;3610000;1;0;1;5.00
-Crystal Palace;Mitchell;Defensa;5;3280000;1;0;1;5.00
-Newcastle;Dan Burn;Defensa;5;3270000;1;0;1;5.00
-Manchester United;Leny Yoro;Defensa;5;3160000;1;1;0;5.00
-Nottingham Forest;Yates;Centrocampista;5;2450000;1;1;0;5.00
-Tottenham;Djed Spence;Defensa;5;2440000;1;1;0;5.00
-Brighton & Hove Albion;Mats Wieffer;Centrocampista;5;2400000;1;1;0;5.00
-Burnley;Josh Cullen;Centrocampista;5;2180000;1;0;1;5.00
-Sunderland;Robin Roefs;Portero;5;1860000;1;1;0;5.00
-Leeds United;Ampadu;Defensa;5;1780000;1;1;0;5.00
-Aston Villa;Mings;Defensa;5;1690000;1;1;0;5.00
-Leeds United;Struijk;Defensa;5;1540000;1;1;0;5.00
-Leeds United;Joe Rodon;Defensa;5;1430000;1;1;0;5.00
-Leeds United;Bogle;Defensa;5;1390000;1;1;0;5.00
-Manchester City;Khusanov;Defensa;5;940000;1;0;1;5.00
-Liverpool;Wataru Endo;Centrocampista;5;570000;1;1;0;5.00
-Manchester United;Mbeumo;Delantero;4;11470000;1;1;0;4.00
-Chelsea;Enzo Fernández;Centrocampista;4;10980000;1;1;0;4.00
-Newcastle;Guimarães;Centrocampista;4;10400000;1;0;1;4.00
-Liverpool;Frimpong;Defensa;4;8950000;1;1;0;4.00
-Liverpool;Szoboszlai;Centrocampista;4;8520000;1;1;0;4.00
-Manchester City;Omar Marmoush;Delantero;4;8340000;1;0;1;4.00
-Newcastle;Tonali;Centrocampista;4;7520000;1;0;1;4.00
-Liverpool;Kerkez;Defensa;4;6000000;1;1;0;4.00
-Chelsea;Robert Sánchez;Portero;4;5560000;1;1;0;4.00
-Crystal Palace;Daniel Muñoz;Defensa;4;5270000;1;0;1;4.00
-Chelsea;Estêvão;Delantero;4;5130000;1;1;0;4.00
-Fulham;Leno;Portero;4;4400000;1;0;1;4.00
-Newcastle;Harvey Barnes;Delantero;4;4370000;1;0;1;4.00
-Brighton & Hove Albion;Baleba;Centrocampista;4;3630000;1;1;0;4.00
-Crystal Palace;Wharton;Centrocampista;4;3600000;1;0;1;4.00
-Tottenham;Van de Ven;Defensa;4;3270000;1;1;0;4.00
-Manchester United;Diogo Dalot;Defensa;4;3110000;1;1;0;4.00
-Tottenham;Bentancur;Centrocampista;4;2970000;1;1;0;4.00
-West Ham United;Kilman;Defensa;4;2930000;1;0;1;4.00
-Liverpool;Curtis Jones;Centrocampista;4;2900000;1;1;0;4.00
-Manchester United;Patrick Dorgu;Defensa;4;2780000;1;1;0;4.00
-Sunderland;Habib Diarra;Centrocampista;4;2590000;1;1;0;4.00
-Manchester United;Mason Mount;Centrocampista;4;2530000;1;1;0;4.00
-Sunderland;Noah Sadiki;Centrocampista;4;2350000;1;1;0;4.00
-Sunderland;Mandava;Defensa;4;2240000;1;1;0;4.00
-Wolverhampton;Bellegarde;Centrocampista;4;2170000;1;1;0;4.00
-Tottenham;Lucas Bergvall;Centrocampista;4;1990000;1;1;0;4.00
-Burnley;Jaidon Anthony;Delantero;4;1710000;1;0;1;4.00
-Aston Villa;Marco Bizot;Portero;4;1400000;1;1;0;4.00
-AFC Bournemouth;David Brooks;Centrocampista;4;1280000;1;0;1;4.00
-Sunderland;Chemsdine Talbi;Delantero;4;1250000;1;1;0;4.00
-Manchester United;Shaw;Defensa;4;1210000;1;1;0;4.00
-Brentford FC;Hickey;Defensa;4;940000;1;0;1;4.00
-Burnley;Lyle Foster;Delantero;4;520000;1;0;1;4.00
-Everton;Iroegbunam;Centrocampista;4;490000;1;0;1;4.00
-Chelsea;Cole Palmer;Centrocampista;3;17710000;1;1;0;3.00
-Liverpool;Florian Wirtz;Centrocampista;3;14420000;1;1;0;3.00
-Aston Villa;Tielemans;Centrocampista;3;9540000;1;1;0;3.00
-Crystal Palace;Eberechi Eze;Delantero;3;9060000;1;0;1;3.00
-West Ham United;Bowen;Delantero;3;8450000;1;0;1;3.00
-Aston Villa;Watkins;Delantero;3;8400000;1;1;0;3.00
-Everton;Pickford;Portero;3;5670000;1;0;1;3.00
-Aston Villa;Rogers;Delantero;3;5340000;1;1;0;3.00
-Sunderland;Xhaka;Centrocampista;3;4980000;1;1;0;3.00
-Nottingham Forest;Milenkovic;Defensa;3;4840000;1;1;0;3.00
-Newcastle;Joelinton;Centrocampista;3;4820000;1;0;1;3.00
-West Ham United;Wan-Bissaka;Defensa;3;4650000;1;0;1;3.00
-Arsenal;Lewis-Skelly;Defensa;3;4450000;1;0;1;3.00
-Nottingham Forest;Sels;Portero;3;4420000;1;1;0;3.00
-Arsenal;Kai Havertz;Delantero;3;4380000;1;0;1;3.00
-West Ham United;Ward-Prowse;Centrocampista;3;4150000;1;0;1;3.00
-Wolverhampton;Larsen;Delantero;3;4070000;1;1;0;3.00
-AFC Bournemouth;Tavernier;Centrocampista;3;3900000;1;0;1;3.00
-Fulham;Harry Wilson;Centrocampista;3;3880000;1;0;1;3.00
-Wolverhampton;João Gomes;Centrocampista;3;3760000;1;1;0;3.00
-Nottingham Forest;Neco Williams;Defensa;3;3660000;1;1;0;3.00
-Chelsea;Jamie Gittens;Delantero;3;3520000;1;1;0;3.00
-Everton;Gueye;Centrocampista;3;3170000;1;0;1;3.00
-Chelsea;Malo Gusto;Defensa;3;3090000;1;1;0;3.00
-Brighton & Hove Albion;Welbeck;Delantero;3;3060000;1;1;0;3.00
-Manchester City;Matheus Nunes;Centrocampista;3;3010000;1;0;1;3.00
-Wolverhampton;André;Centrocampista;3;2860000;1;1;0;3.00
-Sunderland;Enzo Le Fée;Centrocampista;3;2820000;1;1;0;3.00
-AFC Bournemouth;Tyler Adams;Centrocampista;3;2650000;1;0;1;3.00
-Aston Villa;Lucas Digne;Defensa;3;2530000;1;1;0;3.00
-Crystal Palace;Jefferson Lerma;Centrocampista;3;2520000;1;0;1;3.00
-Leeds United;Ao Tanaka;Centrocampista;3;2500000;1;1;0;3.00
-Fulham;Lukic;Centrocampista;3;2450000;1;0;1;3.00
-West Ham United;Todibo;Defensa;3;2260000;1;0;1;3.00
-AFC Bournemouth;Hamed Traorè;Centrocampista;3;2240000;1;0;1;3.00
-Leeds United;Lucas Perri;Portero;3;2150000;1;1;0;3.00
-Aston Villa;Donyell Malen;Delantero;3;2020000;1;1;0;3.00
-Leeds United;Gnonto;Delantero;3;1990000;1;1;0;3.00
-Wolverhampton;Munetsi;Centrocampista;3;1780000;1;1;0;3.00
-Brentford FC;Antoni Milambo;Centrocampista;3;1560000;1;0;1;3.00
-Tottenham;Archie Gray;Defensa;3;1230000;1;1;0;3.00
-Leeds United;Jack Harrison;Delantero;3;1190000;1;1;0;3.00
-Nottingham Forest;Jota Silva;Delantero;3;1080000;1;1;0;3.00
-Burnley;Zian Flemming;Delantero;3;1080000;1;0;1;3.00
-Everton;Michael Keane;Defensa;3;670000;1;0;1;3.00
-Wolverhampton;Hwang;Delantero;3;570000;1;1;0;3.00
-Crystal Palace;Justin Devenny;Centrocampista;3;370000;1;0;1;3.00
-Burnley;Loum Tchaouna;Delantero;3;300000;1;0;1;3.00
-Arsenal;Bukayo Saka;Delantero;2;15050000;1;0;1;2.00
-Arsenal;Rice;Centrocampista;2;11590000;1;0;1;2.00
-Arsenal;Merino;Centrocampista;2;7080000;1;0;1;2.00
-Arsenal;Martinelli;Delantero;2;5650000;1;0;1;2.00
-Crystal Palace;Mateta;Delantero;2;4930000;1;0;1;2.00
-Liverpool;Konaté;Defensa;2;4610000;1;1;0;2.00
-Brighton & Hove Albion;Mitoma;Delantero;2;4380000;1;1;0;2.00
-Everton;Iliman Ndiaye;Delantero;2;3970000;1;0;1;2.00
-Everton;Grealish;Delantero;2;3920000;1;0;1;2.00
-Newcastle;Jacob Murphy;Delantero;2;3900000;1;0;1;2.00
-Aston Villa;John McGinn;Centrocampista;2;3820000;1;1;0;2.00
-Tottenham;Solanke;Delantero;2;3680000;1;1;0;2.00
-Brentford FC;Schade;Delantero;2;3680000;1;0;1;2.00
-Arsenal;Madueke;Delantero;2;3630000;1;0;1;2.00
-Fulham;Emile Smith;Centrocampista;2;3460000;1;0;1;2.00
-Arsenal;Timber;Defensa;2;3400000;1;0;1;2.00
-Everton;Garner;Centrocampista;2;3280000;1;0;1;2.00
-Brentford FC;Jordan Henderson;Centrocampista;2;3260000;1;0;1;2.00
-Tottenham;Palhinha;Centrocampista;2;3260000;1;1;0;2.00
-Nottingham Forest;Igor Jesus;Delantero;2;3030000;1;1;0;2.00
-Brighton & Hove Albion;De Cuyper;Defensa;2;2870000;1;1;0;2.00
-Brentford FC;Lewis-Potter;Defensa;2;2810000;1;0;1;2.00
-Aston Villa;Konsa;Defensa;2;2720000;1;1;0;2.00
-Chelsea;Andrey Santos;Centrocampista;2;2510000;1;1;0;2.00
-Leeds United;Daniel James;Delantero;2;2490000;1;1;0;2.00
-Manchester United;Manuel Ugarte;Centrocampista;2;2400000;1;1;0;2.00
-Brighton & Hove Albion;Yankuba Minteh;Delantero;2;2330000;1;1;0;2.00
-West Ham United;El Diouf;Centrocampista;2;2330000;1;0;1;2.00
-Fulham;Bassey;Defensa;2;2220000;1;0;1;2.00
-West Ham United;Aguerd;Defensa;2;2150000;1;0;1;2.00
-Burnley;Hannibal Mejbri;Centrocampista;2;2090000;1;0;1;2.00
-Everton;Beto;Delantero;2;1920000;1;0;1;2.00
-Manchester United;Maguire;Defensa;2;1840000;1;1;0;2.00
-Burnley;Dubravka;Portero;2;1780000;1;0;1;2.00
-Brentford FC;Jensen;Centrocampista;2;1600000;1;0;1;2.00
-AFC Bournemouth;Alex Scott;Centrocampista;2;1600000;1;0;1;2.00
-Brentford FC;Michael Kayode;Defensa;2;1600000;1;0;1;2.00
-Nottingham Forest;Sangaré;Centrocampista;2;1580000;1;1;0;2.00
-Fulham;Adama Traoré;Delantero;2;1420000;1;0;1;2.00
-West Ham United;Guido Rodríguez;Centrocampista;2;1310000;1;0;1;2.00
-Fulham;Castagne;Defensa;2;1280000;1;0;1;2.00
-Burnley;Marcus Edwards;Delantero;2;1130000;1;0;1;2.00
-Burnley;Ugochukwu;Centrocampista;2;1030000;1;0;1;2.00
-Wolverhampton;Ki-Jana Hoever;Defensa;2;1020000;1;1;0;2.00
-Wolverhampton;Hugo Bueno;Defensa;2;980000;1;1;0;2.00
-Wolverhampton;Fer López;Delantero;2;940000;1;1;0;2.00
-Burnley;Josh Laurent;Centrocampista;2;870000;1;0;1;2.00
-Manchester United;Bayindir;Portero;2;850000;1;1;0;2.00
-Brighton & Hove Albion;Diego Gómez;Centrocampista;2;840000;1;1;0;2.00
-Brighton & Hove Albion;Brajan Gruda;Delantero;2;800000;1;1;0;2.00
-Liverpool;Joe Gomez;Defensa;2;690000;1;1;0;2.00
-Leeds United;Ilia Gruev;Centrocampista;2;670000;1;1;0;2.00
-Fulham;Cairney;Centrocampista;2;590000;1;0;1;2.00
-Manchester City;Nico O'Reilly;Centrocampista;2;550000;1;0;1;2.00
-Brighton & Hove Albion;Milner;Centrocampista;2;510000;1;1;0;2.00
-Tottenham;Odobert;Delantero;2;500000;1;1;0;2.00
-Fulham;Jorge Cuenca;Defensa;2;500000;1;0;1;2.00
-Newcastle;Lewis Miley;Centrocampista;2;450000;1;0;1;2.00
-West Ham United;Andy Irving;Centrocampista;2;220000;1;0;1;2.00
-Manchester United;Benjamin Sesko;Delantero;1;10530000;1;1;0;1.00
-Manchester City;Jérémy Doku;Delantero;1;5290000;1;0;1;1.00
-Liverpool;Alisson;Portero;1;5240000;1;1;0;1.00
-Wolverhampton;Jhon Arias;Delantero;1;4300000;1;1;0;1.00
-West Ham United;Soucek;Centrocampista;1;4160000;1;0;1;1.00
-Burnley;Walker;Defensa;1;3900000;1;0;1;1.00
-Brighton & Hove Albion;Verbruggen;Portero;1;3610000;1;1;0;1.00
-Everton;Thierno Barry;Delantero;1;3200000;1;0;1;1.00
-Chelsea;Liam Delap;Delantero;1;2820000;1;1;0;1.00
-Sunderland;Adingra;Delantero;1;2820000;1;1;0;1.00
-Liverpool;Robertson;Defensa;1;2810000;1;1;0;1.00
-Everton;Carlos Alcaraz;Centrocampista;1;2810000;1;0;1;1.00
-Brentford FC;Sepp van den Berg;Defensa;1;2590000;1;0;1;1.00
-Tottenham;Mathys Tel;Delantero;1;2350000;1;1;0;1.00
-Wolverhampton;Wolfe;Defensa;1;2120000;1;1;0;1.00
-Brentford FC;Fabio Carvalho;Centrocampista;1;1610000;1;0;1;1.00
-Everton;Jake O'Brien;Defensa;1;1590000;1;0;1;1.00
-West Ham United;Callum Wilson;Delantero;1;1220000;1;0;1;1.00
-AFC Bournemouth;Adam Smith;Defensa;1;760000;1;0;1;1.00
-Fulham;Joshua King;Centrocampista;1;510000;1;0;1;1.00
-AFC Bournemouth;Ben Winterburn;Centrocampista;1;470000;1;0;1;1.00
-Brentford FC;Onyeka;Centrocampista;1;340000;1;0;1;1.00
-Burnley;Jacob Larsen;Delantero;1;290000;1;0;1;1.00
-Arsenal;Gyökeres;Delantero;0;14070000;1;0;1;0.00
-Newcastle;Isak;Delantero;0;11570000;0;0;0;0.00
-Manchester City;Foden;Centrocampista;0;9200000;0;0;0;0.00
-Manchester City;Rodrigo;Centrocampista;0;9180000;0;0;0;0.00
-Brentford FC;Yoane Wissa;Delantero;0;6980000;0;0;0;0.00
-Manchester City;Gvardiol;Defensa;0;6830000;0;0;0;0.00
-Newcastle;Anthony Gordon;Delantero;0;5610000;1;0;1;0.00
-Brentford FC;Damsgaard;Centrocampista;0;5410000;0;0;0;0.00
-Liverpool;Gravenberch;Centrocampista;0;5170000;0;0;0;0.00
-Tottenham;Maddison;Centrocampista;0;5060000;0;0;0;0.00
-Manchester City;Sávio;Delantero;0;4920000;0;0;0;0.00
-AFC Bournemouth;Evanilson;Delantero;0;4630000;1;0;1;0.00
-Nottingham Forest;Kalimuendo;Delantero;0;4020000;0;0;0;0.00
-Everton;McNeil;Centrocampista;0;4000000;0;0;0;0.00
-AFC Bournemouth;Justin Kluivert;Delantero;0;3760000;0;0;0;0.00
-Aston Villa;Emiliano Martínez;Portero;0;3490000;0;0;0;0.00
-Brentford FC;Kelleher;Portero;0;3360000;1;0;1;0.00
-Fulham;Antonee Robinson;Defensa;0;3330000;0;0;0;0.00
-Arsenal;Trossard;Delantero;0;3090000;0;0;0;0.00
-Newcastle;Lewis Hall;Defensa;0;3040000;0;0;0;0.00
-Arsenal;Nørgaard;Centrocampista;0;3010000;0;0;0;0.00
-Leeds United;Joël Piroe;Delantero;0;2830000;1;1;0;0.00
-Newcastle;Jacob Ramsey;Centrocampista;0;2820000;0;0;0;0.00
-Manchester City;Akanji;Defensa;0;2780000;0;0;0;0.00
-Aston Villa;Evann Guessand;Delantero;0;2770000;0;0;0;0.00
-Manchester United;Mainoo;Centrocampista;0;2750000;0;0;0;0.00
-West Ham United;Areola;Portero;0;2740000;0;0;0;0.00
-Manchester City;Gündogan;Centrocampista;0;2700000;0;0;0;0.00
-Aston Villa;Pau Torres;Defensa;0;2660000;0;0;0;0.00
-Newcastle;Ramsdale;Portero;0;2640000;0;0;0;0.00
-Wolverhampton;Toti Gomes;Defensa;0;2640000;1;1;0;0.00
-Everton;Mykolenko;Defensa;0;2620000;0;0;0;0.00
-Fulham;Sander Berge;Centrocampista;0;2580000;1;0;1;0.00
-Fulham;Pereira;Centrocampista;0;2480000;0;0;0;0.00
-Manchester United;Garnacho;Delantero;0;2440000;0;0;0;0.00
-Liverpool;Mamardashvili;Portero;0;2420000;0;0;0;0.00
-AFC Bournemouth;Adrien Truffert;Defensa;0;2420000;1;0;1;0.00
-Manchester City;Ederson;Portero;0;2400000;0;0;0;0.00
-Arsenal;Nwaneri;Centrocampista;0;2330000;0;0;0;0.00
-Brentford FC;Ouattara;Delantero;0;2300000;0;0;0;0.00
-Leeds United;Calvert-Lewin;Delantero;0;2250000;0;0;0;0.00
-Everton;Branthwaite;Defensa;0;2240000;0;0;0;0.00
-Manchester United;André Onana;Portero;0;2130000;0;0;0;0.00
-Manchester United;Mazraoui;Defensa;0;2090000;0;0;0;0.00
-Chelsea;Adarabioyo;Defensa;0;2080000;0;0;0;0.00
-Chelsea;Nicolas Jackson;Delantero;0;2080000;0;0;0;0.00
-Manchester City;Kovacic;Centrocampista;0;2050000;0;0;0;0.00
-Leeds United;Longstaff;Centrocampista;0;2020000;1;1;0;0.00
-Chelsea;Colwill;Defensa;0;2010000;0;0;0;0.00
-Leeds United;Illan Meslier;Portero;0;1990000;0;0;0;0.00
-Chelsea;Jorrel Hato;Defensa;0;1940000;0;0;0;0.00
-Brighton & Hove Albion;Hinshelwood;Centrocampista;0;1930000;0;0;0;0.00
-AFC Bournemouth;Ryan Christie;Centrocampista;0;1870000;0;0;0;0.00
-Arsenal;Mosquera;Defensa;0;1850000;0;0;0;0.00
-Burnley;Maxime Estève;Defensa;0;1830000;1;0;1;0.00
-Fulham;Sessegnon;Centrocampista;0;1750000;0;0;0;0.00
-Newcastle;Botman;Defensa;0;1690000;0;0;0;0.00
-Leeds United;Jaka Bijol;Defensa;0;1690000;0;0;0;0.00
-Manchester United;Jadon Sancho;Delantero;0;1680000;0;0;0;0.00
-Newcastle;Malick Thiaw;Defensa;0;1660000;0;0;0;0.00
-Wolverhampton;Doherty;Defensa;0;1650000;1;1;0;0.00
-Brighton & Hove Albion;Buonanotte;Centrocampista;0;1650000;0;0;0;0.00
-Chelsea;Nkunku;Delantero;0;1630000;0;0;0;0.00
-Tottenham;Udogie;Defensa;0;1620000;0;0;0;0.00
-AFC Bournemouth;Kroupi;Delantero;0;1620000;1;0;1;0.00
-AFC Bournemouth;Lewis Cook;Centrocampista;0;1600000;0;0;0;0.00
-Nottingham Forest;Hutchinson;Centrocampista;0;1600000;0;0;0;0.00
-West Ham United;Edson Álvarez;Centrocampista;0;1600000;0;0;0;0.00
-Aston Villa;Ian Maatsen;Defensa;0;1560000;0;0;0;0.00
-Brighton & Hove Albion;Julio Enciso;Centrocampista;0;1540000;0;0;0;0.00
-Sunderland;Patterson;Portero;0;1540000;0;0;0;0.00
-Tottenham;Kulusevski;Delantero;0;1520000;0;0;0;0.00
-West Ham United;Hermansen;Portero;0;1520000;1;0;1;0.00
-Manchester United;Højlund;Delantero;0;1510000;0;0;0;0.00
-Sunderland;Marc Guiu;Delantero;0;1490000;0;0;0;0.00
-Brighton & Hove Albion;Boscagli;Defensa;0;1490000;0;0;0;0.00
-Nottingham Forest;Domínguez;Centrocampista;0;1450000;0;0;0;0.00
-Tottenham;Kevin Danso;Defensa;0;1440000;0;0;0;0.00
-Manchester United;Antony;Delantero;0;1430000;0;0;0;0.00
-Liverpool;Harvey Elliott;Centrocampista;0;1420000;0;0;0;0.00
-Burnley;Hartman;Defensa;0;1400000;1;0;1;0.00
-Tottenham;Bissouma;Centrocampista;0;1390000;0;0;0;0.00
-Nottingham Forest;McAtee;Centrocampista;0;1390000;0;0;0;0.00
-West Ham United;Walker-Peters;Defensa;0;1380000;0;0;0;0.00
-Arsenal;Fábio Vieira;Centrocampista;0;1370000;0;0;0;0.00
-Sunderland;Nordi Mukiele;Defensa;0;1370000;0;0;0;0.00
-West Ham United;Mavropanos;Defensa;0;1350000;0;0;0;0.00
-Sunderland;Masuaku;Defensa;0;1340000;0;0;0;0.00
-Crystal Palace;Daichi Kamada;Centrocampista;0;1340000;0;0;0;0.00
-Brentford FC;Yarmolyuk;Centrocampista;0;1300000;1;0;1;0.00
-Burnley;Max Weiss;Portero;0;1290000;0;0;0;0.00
-Manchester City;Callum Doyle;Defensa;0;1260000;0;0;0;0.00
-West Ham United;Emerson;Defensa;0;1240000;0;0;0;0.00
-Liverpool;Bradley;Defensa;0;1200000;0;0;0;0.00
-Arsenal;Kepa;Portero;0;1180000;0;0;0;0.00
-Manchester City;Ake;Defensa;0;1150000;0;0;0;0.00
-Tottenham;Bryan Gil;Centrocampista;0;1110000;0;0;0;0.00
-Chelsea;Roméo Lavia;Centrocampista;0;1100000;0;0;0;0.00
-AFC Bournemouth;Billing;Centrocampista;0;1090000;0;0;0;0.00
-Brentford FC;Janelt;Centrocampista;0;1090000;0;0;0;0.00
-Brighton & Hove Albion;Kadıoğlu;Defensa;0;1070000;1;1;0;0.00
-Brentford FC;Pinnock;Defensa;0;1060000;0;0;0;0.00
-Brentford FC;Kristoffer Ajer;Defensa;0;1040000;0;0;0;0.00
-Brighton & Hove Albion;Diego Coppola;Defensa;0;1040000;0;0;0;0.00
-Brighton & Hove Albion;Veltman;Defensa;0;1010000;0;0;0;0.00
-Burnley;Armando Broja;Delantero;0;1010000;0;0;0;0.00
-Wolverhampton;Fábio Silva;Delantero;0;980000;0;0;0;0.00
-Sunderland;Dan Neil;Centrocampista;0;980000;0;0;0;0.00
-Chelsea;Sterling;Delantero;0;970000;0;0;0;0.00
-Wolverhampton;Tchatchoua;Defensa;0;970000;0;0;0;0.00
-Manchester United;Joshua Zirkzee;Delantero;0;960000;0;0;0;0.00
-Arsenal;Kiwior;Defensa;0;950000;0;0;0;0.00
-Wolverhampton;Yerson Mosquera;Defensa;0;930000;0;0;0;0.00
-Chelsea;Wesley Fofana;Defensa;0;910000;0;0;0;0.00
-Crystal Palace;Walter Benítez;Portero;0;910000;0;0;0;0.00
-Burnley;Amdouni;Delantero;0;890000;0;0;0;0.00
-Wolverhampton;Santiago Bueno;Defensa;0;870000;0;0;0;0.00
-Nottingham Forest;David Carmo;Defensa;0;870000;0;0;0;0.00
-Nottingham Forest;Jair Cunha;Defensa;0;870000;0;0;0;0.00
-Newcastle;Willock;Centrocampista;0;850000;0;0;0;0.00
-Manchester City;Echeverri;Centrocampista;0;840000;0;0;0;0.00
-Liverpool;Rio Ngumoha;Delantero;0;820000;0;0;0;0.00
-Aston Villa;Emi Buendía;Delantero;0;810000;0;0;0;0.00
-Fulham;Issa Diop;Defensa;0;800000;0;0;0;0.00
-Manchester United;Lisandro Martínez;Defensa;0;790000;0;0;0;0.00
-Wolverhampton;Rodrigo Gomes;Defensa;0;770000;1;1;0;0.00
-Arsenal;Gabriel Jesus;Delantero;0;750000;0;0;0;0.00
-Chelsea;Axel Disasi;Defensa;0;750000;0;0;0;0.00
-Tottenham;Luka Vuskovic;Defensa;0;750000;0;0;0;0.00
-Arsenal;Zinchenko;Defensa;0;730000;0;0;0;0.00
-Brighton & Hove Albion;Abdallah Sima;Delantero;0;720000;0;0;0;0.00
-Liverpool;Tsimikas;Defensa;0;700000;0;0;0;0.00
-Sunderland;Chris Rigg;Centrocampista;0;690000;1;1;0;0.00
-Tottenham;Ben Davies;Defensa;0;680000;0;0;0;0.00
-Aston Villa;Barkley;Centrocampista;0;680000;0;0;0;0.00
-Tottenham;Solomon;Delantero;0;680000;0;0;0;0.00
-Crystal Palace;Borna Sosa;Defensa;0;680000;0;0;0;0.00
-Crystal Palace;Cheick Doucouré;Centrocampista;0;660000;0;0;0;0.00
-Brighton & Hove Albion;Stefanos Tzimas;Delantero;0;660000;0;0;0;0.00
-Burnley;Tuanzebe;Defensa;0;630000;0;0;0;0.00
-Chelsea;Jørgensen;Portero;0;630000;0;0;0;0.00
-Brighton & Hove Albion;Igor;Defensa;0;620000;0;0;0;0.00
-Sunderland;Dennis Cirkin;Defensa;0;610000;0;0;0;0.00
-Burnley;Lucas Pires;Defensa;0;610000;0;0;0;0.00
-Crystal Palace;Nketiah;Delantero;0;600000;0;0;0;0.00
-Arsenal;Reiss Nelson;Delantero;0;600000;0;0;0;0.00
-Aston Villa;Samuel Iling;Delantero;0;600000;0;0;0;0.00
-AFC Bournemouth;Faivre;Centrocampista;0;590000;0;0;0;0.00
-Arsenal;Lokonga;Centrocampista;0;570000;0;0;0;0.00
-Brighton & Hove Albion;Webster;Defensa;0;550000;0;0;0;0.00
-Nottingham Forest;Morato;Defensa;0;550000;0;0;0;0.00
-Burnley;Connor Roberts;Defensa;0;530000;0;0;0;0.00
-Manchester City;Stefan Ortega;Portero;0;530000;0;0;0;0.00
-Leeds United;Ramazani;Delantero;0;530000;0;0;0;0.00
-Newcastle;John Ruddy;Portero;0;510000;0;0;0;0.00
-Chelsea;Chilwell;Defensa;0;510000;0;0;0;0.00
-Everton;Travers;Portero;0;510000;0;0;0;0.00
-Chelsea;Mudryk;Delantero;0;510000;0;0;0;0.00
-Chelsea;Badiashile;Defensa;0;510000;0;0;0;0.00
-Brighton & Hove Albion;Lamptey;Defensa;0;500000;0;0;0;0.00
-Liverpool;Giovanni Leoni;Defensa;0;500000;0;0;0;0.00
-Chelsea;Renato Veiga;Centrocampista;0;500000;0;0;0;0.00
-Brighton & Hove Albion;Kostoulas;Delantero;0;500000;0;0;0;0.00
-Brentford FC;Rasmussen;Defensa;0;490000;0;0;0;0.00
-Sunderland;Patrick Roberts;Delantero;0;470000;0;0;0;0.00
-Aston Villa;Álex Moreno;Defensa;0;470000;0;0;0;0.00
-Crystal Palace;Romain Esse;Centrocampista;0;470000;0;0;0;0.00
-Everton;Adam Aznou;Defensa;0;460000;0;0;0;0.00
-AFC Bournemouth;Mepham;Defensa;0;440000;0;0;0;0.00
-Wolverhampton;Johnstone;Portero;0;440000;0;0;0;0.00
-AFC Bournemouth;Sinisterra;Delantero;0;440000;0;0;0;0.00
-Tottenham;Antonín Kinský;Portero;0;430000;0;0;0;0.00
-Leeds United;Bornauw;Defensa;0;430000;0;0;0;0.00
-Manchester City;Kalvin Phillips;Centrocampista;0;420000;0;0;0;0.00
-AFC Bournemouth;Julián Araujo;Defensa;0;420000;0;0;0;0.00
-Sunderland;Luke O'Nien;Defensa;0;420000;0;0;0;0.00
-Burnley;Bashir Humphreys;Defensa;0;410000;0;0;0;0.00
-Brighton & Hove Albion;March;Centrocampista;0;390000;0;0;0;0.00
-Wolverhampton;Mateus Mané;Delantero;0;390000;0;0;0;0.00
-Leeds United;Sam Greenwood;Delantero;0;380000;0;0;0;0.00
-Leeds United;Darlow;Portero;0;370000;0;0;0;0.00
-Nottingham Forest;Awoniyi;Delantero;0;370000;0;0;0;0.00
-Leeds United;Byram;Defensa;0;320000;0;0;0;0.00
-Liverpool;Woodman;Portero;0;320000;0;0;0;0.00
-West Ham United;Freddie Potts;Centrocampista;0;320000;0;0;0;0.00
-Burnley;Koleosho;Delantero;0;310000;0;0;0;0.00
-Chelsea;Dário Essugo;Centrocampista;0;310000;0;0;0;0.00
-Tottenham;Drăgușin;Defensa;0;300000;0;0;0;0.00
-Manchester United;Malacia;Defensa;0;290000;0;0;0;0.00
-Crystal Palace;Edouard;Delantero;0;280000;0;0;0;0.00
-Brighton & Hove Albion;Steele;Portero;0;280000;0;0;0;0.00
-Crystal Palace;Rak-Sakyi;Delantero;0;280000;0;0;0;0.00
-Everton;Patterson;Defensa;0;280000;0;0;0;0.00
-Chelsea;Gilchrist;Defensa;0;280000;0;0;0;0.00
-Wolverhampton;Sasa Kalajdzic;Delantero;0;270000;0;0;0;0.00
-AFC Bournemouth;Ben Doak;Delantero;0;270000;0;0;0;0.00
-Newcastle;Lascelles;Defensa;0;260000;0;0;0;0.00
-West Ham United;Crysencio Summerville;Delantero;0;260000;0;0;0;0.00
-Nottingham Forest;Omar Richards;Defensa;0;260000;0;0;0;0.00
-Manchester City;Kaboré;Defensa;0;260000;0;0;0;0.00
-Burnley;Oliver Sonne;Defensa;0;260000;1;0;1;0.00
-Brentford FC;Valdimarsson;Portero;0;250000;0;0;0;0.00
-West Ham United;Oliver Scarles;Defensa;0;250000;0;0;0;0.00
-Sunderland;Alan Browne;Centrocampista;0;250000;0;0;0;0.00
-Leeds United;Bamford;Delantero;0;240000;0;0;0;0.00
-Chelsea;Tyrique George;Delantero;0;240000;0;0;0;0.00
-Manchester United;Ayden Heaven;Defensa;0;240000;0;0;0;0.00
-West Ham United;Cornet;Delantero;0;230000;0;0;0;0.00
-Burnley;Vaclav Hladky;Portero;0;230000;0;0;0;0.00
-Newcastle;Targett;Defensa;0;220000;0;0;0;0.00
-Crystal Palace;Clyne;Defensa;0;220000;0;0;0;0.00
-Burnley;Joe Worrall;Defensa;0;220000;0;0;0;0.00
-Leeds United;Darko Gyabi;Centrocampista;0;220000;0;0;0;0.00
-Liverpool;Bajčetić;Centrocampista;0;220000;0;0;0;0.00
-Burnley;Darko Churlinov;Delantero;0;220000;0;0;0;0.00
-Aston Villa;Lamare Bogarde;Centrocampista;0;220000;0;0;0;0.00
-Nottingham Forest;Willy Boly;Defensa;0;210000;0;0;0;0.00
-Burnley;Ashley Barnes;Delantero;0;210000;0;0;0;0.00
-Newcastle;Krafth;Defensa;0;210000;0;0;0;0.00
-Chelsea;Chukwuemeka;Centrocampista;0;210000;0;0;0;0.00
-Chelsea;David Fofana;Delantero;0;210000;0;0;0;0.00
-Wolverhampton;Bentley;Portero;0;210000;0;0;0;0.00
-Burnley;Beyer;Defensa;0;210000;0;0;0;0.00
-Newcastle;Osula;Delantero;0;210000;1;0;1;0.00
-West Ham United;Luis Guilherme;Delantero;0;210000;0;0;0;0.00
-Burnley;Delcroix;Defensa;0;200000;0;0;0;0.00
-Crystal Palace;Hindolo Mustapha;Centrocampista;0;200000;0;0;0;0.00
-Leeds United;Isaac Schmidt;Defensa;0;200000;0;0;0;0.00
-Brighton & Hove Albion;Jeremy Sarmiento;Delantero;0;190000;0;0;0;0.00
-Manchester United;Tyler Fredricson;Defensa;0;190000;0;0;0;0.00
-Nottingham Forest;Angus Gunn;Portero;0;190000;0;0;0;0.00
-AFC Bournemouth;James Hill;Defensa;0;190000;1;0;1;0.00
-Brighton & Hove Albion;Andrew Moran;Centrocampista;0;190000;0;0;0;0.00
-Burnley;Mike Trésor;Delantero;0;190000;0;0;0;0.00
-Crystal Palace;Chadi Riad;Defensa;0;190000;0;0;0;0.00
-Chelsea;Aarón Anselmino;Defensa;0;190000;0;0;0;0.00
-Crystal Palace;Kaden Rodney;Centrocampista;0;190000;0;0;0;0.00
-Sunderland;Mundle;Delantero;0;190000;0;0;0;0.00
-Sunderland;Pembélé;Defensa;0;190000;0;0;0;0.00
-Fulham;Reed;Centrocampista;0;180000;0;0;0;0.00
-Sunderland;Simon Moore;Portero;0;180000;0;0;0;0.00
-Burnley;Obafemi;Delantero;0;180000;0;0;0;0.00
-Liverpool;Rhys Williams;Defensa;0;180000;0;0;0;0.00
-Liverpool;Trey Nyoni;Centrocampista;0;180000;0;0;0;0.00
-Chelsea;Gabriel Slonina;Portero;0;180000;0;0;0;0.00
-Crystal Palace;Matheus França;Centrocampista;0;180000;0;0;0;0.00
-Newcastle;Alex Murphy;Defensa;0;180000;0;0;0;0.00
-Aston Villa;Andrés García;Defensa;0;180000;0;0;0;0.00
-Sunderland;Aji Alese;Defensa;0;180000;0;0;0;0.00
-Liverpool;Ármin Pécsi;Portero;0;180000;0;0;0;0.00
-Burnley;Hedilazio;Delantero;0;170000;0;0;0;0.00
-West Ham United;Foderingham;Portero;0;170000;0;0;0;0.00
-Burnley;Aaron Ramsey;Centrocampista;0;170000;0;0;0;0.00
-AFC Bournemouth;Enes Ünal;Delantero;0;170000;0;0;0;0.00
-Wolverhampton;Pedro Lima;Defensa;0;170000;0;0;0;0.00
-Manchester United;Harry Amass;Defensa;0;170000;0;0;0;0.00
-Nottingham Forest;Zach Abbott;Defensa;0;170000;0;0;0;0.00
-AFC Bournemouth;Rees-Dottin;Delantero;0;170000;0;0;0;0.00
-Sunderland;Nectarios Triantis;Centrocampista;0;170000;0;0;0;0.00
-Fulham;Lecomte;Portero;0;170000;0;0;0;0.00
-Nottingham Forest;Emmanuel Dennis;Delantero;0;160000;0;0;0;0.00
-Crystal Palace;Matthews;Portero;0;160000;0;0;0;0.00
-Brentford FC;Myles Peart-Harris;Centrocampista;0;160000;0;0;0;0.00
-Tottenham;Brandon Austin;Portero;0;160000;0;0;0;0.00
-Crystal Palace;Ahamada;Centrocampista;0;160000;0;0;0;0.00
-Everton;Chermiti;Delantero;0;160000;0;0;0;0.00
-AFC Bournemouth;Julio Soler;Defensa;0;160000;0;0;0;0.00
-West Ham United;Lewis Orford;Centrocampista;0;160000;0;0;0;0.00
-Sunderland;Jay Matete;Centrocampista;0;160000;0;0;0;0.00
-Brighton & Hove Albion;Tom Watson;Delantero;0;160000;0;0;0;0.00
-Burnley;Etienne Green;Portero;0;160000;0;0;0;0.00
-Manchester United;Diego León;Defensa;0;160000;0;0;0;0.00
-Nottingham Forest;Marko Stamenic;Centrocampista;0;160000;0;0;0;0.00
-Sunderland;Abdoullah Ba;Centrocampista;0;160000;0;0;0;0.00
-Manchester United;Heaton;Portero;0;150000;0;0;0;0.00
-Everton;Coleman;Defensa;0;150000;0;0;0;0.00
-Manchester City;Bettinelli;Portero;0;150000;0;0;0;0.00
-West Ham United;Earthy;Centrocampista;0;150000;0;0;0;0.00
-Newcastle;Gillespie;Portero;0;150000;0;0;0;0.00
-Sunderland;Ian Poveda;Delantero;0;150000;0;0;0;0.00
-Sunderland;Huggins;Delantero;0;150000;0;0;0;0.00
-Tottenham;Dane Scarlett;Delantero;0;150000;0;0;0;0.00
-Aston Villa;Dobbin;Delantero;0;150000;0;0;0;0.00
-Newcastle;Harrison Ashby;Defensa;0;150000;0;0;0;0.00
-Sunderland;Hjelde;Defensa;0;150000;0;0;0;0.00
-Brentford FC;Balcombe;Portero;0;150000;0;0;0;0.00
-AFC Bournemouth;Will Dennis;Portero;0;150000;0;0;0;0.00
-Liverpool;Calvin Ramsay;Defensa;0;150000;0;0;0;0.00
-Wolverhampton;Enso González;Delantero;0;150000;0;0;0;0.00
-AFC Bournemouth;Owen Bevan;Defensa;0;150000;0;0;0;0.00
-Brentford FC;Matthew Cox;Portero;0;150000;0;0;0;0.00
-Brighton & Hove Albion;Tom McGill;Portero;0;150000;0;0;0;0.00
-Nottingham Forest;Josh Bowler;Delantero;0;150000;0;0;0;0.00
-Arsenal;Karl Hein;Portero;0;150000;0;0;0;0.00
-Burnley;Enock Agyei;Delantero;0;150000;0;0;0;0.00
-Everton;Tom King;Portero;0;150000;0;0;0;0.00
-Brentford FC;Konak;Centrocampista;0;150000;0;0;0;0.00
-Wolverhampton;Chirewa;Centrocampista;0;150000;0;0;0;0.00
-Wolverhampton;Fraser;Delantero;0;150000;0;0;0;0.00
-Brentford FC;Paris Maghoma;Centrocampista;0;150000;0;0;0;0.00
-West Ham United;Callum Marshall;Delantero;0;150000;0;0;0;0.00
-Manchester City;Wilson-Esbrand;Defensa;0;150000;0;0;0;0.00
-Nottingham Forest;Da Silva Moreira;Delantero;0;150000;0;0;0;0.00
-AFC Bournemouth;Alex Paulsen;Portero;0;150000;0;0;0;0.00
-Everton;Harry Tyrer;Portero;0;150000;0;0;0;0.00
-Everton;Harrison Armstrong;Centrocampista;0;150000;0;0;0;0.00
-Brentford FC;Gustavo Nunes;Delantero;0;150000;0;0;0;0.00
-Crystal Palace;Caleb Kporha;Defensa;0;150000;0;0;0;0.00
-Fulham;Martial Godo;Delantero;0;150000;0;0;0;0.00
-AFC Bournemouth;Matai Akinmboni;Defensa;0;150000;0;0;0;0.00
-West Ham United;Krisztián Hegyi;Portero;0;150000;0;0;0;0.00
-Manchester United;Obi-Martin;Delantero;0;150000;0;0;0;0.00
-Sunderland;Abdullahi;Delantero;0;150000;0;0;0;0.00
-Sunderland;Noukeu;Portero;0;150000;0;0;0;0.00
-Sunderland;Joe Anderson;Defensa;0;150000;0;0;0;0.00
-Sunderland;Aleksic;Centrocampista;0;150000;0;0;0;0.00
-Leeds United;Alex Cairns;Portero;0;150000;0;0;0;0.00
-Burnley;Jaydon Banel;Delantero;0;150000;0;0;0;0.00
-Brentford FC;Romelle Donovan;Delantero;0;150000;0;0;0;0.00
-Sunderland;Nazariy Rusyn;Delantero;0;150000;0;0;0;0.00
-Sunderland;Luís Semedo;Delantero;0;150000;0;0;0;0.00
-Tottenham;Kota Takai;Defensa;0;150000;0;0;0;0.00
-Brentford FC;Julian Eyestone;Portero;0;150000;0;0;0;0.00
-Brentford FC;Benjamin Arthur;Defensa;0;150000;0;0;0;0.00
-Leeds United;Sam Chambers;Centrocampista;0;150000;0;0;0;0.00
-Sunderland;Harrison Jones;Centrocampista;0;150000;0;0;0;0.00
-AFC Bournemouth;Callan McKenna;Portero;0;150000;0;0;0;0.00
-Sunderland;Zak Johnson;Defensa;0;150000;0;0;0;0.00
-Crystal Palace;Cardines;Defensa;0;150000;0;0;0;0.00
-Chelsea;João Pedro;Delantero;-1;11990000;1;1;0;-1.00
-Brentford FC;Collins;Defensa;-1;3470000;1;0;1;-1.00
-Wolverhampton;José Sá;Portero;-1;3310000;1;1;0;-1.00
-AFC Bournemouth;Bafodé Diakité;Defensa;-1;2840000;1;0;1;-1.00
-AFC Bournemouth;Senesi;Defensa;-1;2190000;1;0;1;-1.00
-Burnley;Ekdal;Defensa;-1;640000;1;0;1;-1.00
-Fulham;Raúl Jiménez;Delantero;-2;5200000;1;0;1;-2.00
-Brentford FC;Rico Henry;Defensa;-2;850000;1;0;1;-2.00
-West Ham United;Füllkrug;Delantero;-3;2870000;1;0;1;-3.00
-Wolverhampton;Agbadou;Defensa;-3;2490000;1;1;0;-3.00
+﻿Equipo,Jugador,Posición,Puntos,Precio,PJ,Casa,Fuera,Media
+Liverpool,Salah,Delantero,416,18120000,38,19,19,10.95
+Chelsea,Cole Palmer,Centrocampista,340,17520000,37,19,18,9.19
+Brentford FC,Mbeumo,Delantero,321,15670000,38,19,19,8.45
+Manchester United,Bruno Fernandes,Centrocampista,309,15490000,36,18,18,8.58
+Wolverhampton,Matheus Cunha,Delantero,299,14050000,33,16,17,9.06
+Newcastle,Isak,Delantero,273,16170000,34,18,16,8.03
+Manchester City,Gvardiol,Defensa,268,7550000,37,19,18,7.24
+Aston Villa,Tielemans,Centrocampista,259,12270000,36,18,18,7.19
+Fulham,Iwobi,Delantero,258,10090000,38,19,19,6.79
+Chelsea,Enzo Fernández,Centrocampista,254,13560000,36,18,18,7.06
+Liverpool,Luis Díaz,Delantero,253,11040000,36,18,18,7.03
+Newcastle,Guimarães,Centrocampista,251,14350000,38,19,19,6.61
+Arsenal,Rice,Centrocampista,251,14120000,35,18,17,7.17
+Manchester City,Haaland,Delantero,250,13680000,31,14,17,8.06
+Brentford FC,Yoane Wissa,Delantero,250,10710000,35,17,18,7.14
+AFC Bournemouth,Semenyo,Delantero,249,9040000,37,19,18,6.73
+Brentford FC,Flekken,Portero,246,6340000,37,18,19,6.65
+Liverpool,Van Dijk,Defensa,241,6620000,37,19,18,6.51
+Crystal Palace,Eberechi Eze,Delantero,240,10570000,34,17,17,7.06
+West Ham United,Bowen,Delantero,237,12010000,34,17,17,6.97
+Nottingham Forest,Wood,Delantero,234,6230000,36,18,18,6.5
+Liverpool,Mac Allister,Centrocampista,233,12260000,35,17,18,6.66
+Nottingham Forest,Gibbs-White,Centrocampista,233,8860000,34,17,17,6.85
+Brentford FC,Damsgaard,Centrocampista,233,7130000,38,19,19,6.13
+Tottenham,Maddison,Centrocampista,232,8020000,31,15,16,7.48
+Chelsea,Moisés Caicedo,Centrocampista,230,11740000,38,19,19,6.05
+Liverpool,Cody Gakpo,Delantero,228,8500000,35,17,18,6.51
+Arsenal,Trossard,Delantero,227,7720000,38,19,19,5.97
+Fulham,Raúl Jiménez,Delantero,226,5040000,38,19,19,5.95
+Liverpool,Szoboszlai,Centrocampista,225,10260000,36,18,18,6.25
+Everton,Pickford,Portero,225,4980000,38,19,19,5.92
+Brentford FC,Collins,Defensa,224,4990000,38,19,19,5.89
+Aston Villa,Watkins,Delantero,223,9470000,38,19,19,5.87
+Newcastle,Jacob Murphy,Delantero,223,5200000,35,18,17,6.37
+AFC Bournemouth,Justin Kluivert,Delantero,222,6560000,34,17,17,6.53
+Nottingham Forest,Milenkovic,Defensa,222,5800000,37,18,19,6
+Crystal Palace,Ismaïla Sarr,Delantero,220,4770000,38,19,19,5.79
+Crystal Palace,Daniel Muñoz,Defensa,217,6030000,37,18,19,5.86
+Manchester City,Kovacic,Centrocampista,216,6260000,31,15,16,6.97
+Everton,Tarkowski,Defensa,215,4270000,33,17,16,6.52
+Manchester City,Bernardo Silva,Centrocampista,214,8940000,33,15,18,6.48
+Nottingham Forest,Elanga,Delantero,214,7080000,38,19,19,5.63
+Nottingham Forest,Murillo,Defensa,213,5230000,36,18,18,5.92
+Arsenal,Thomas,Centrocampista,211,6700000,35,19,16,6.03
+Brentford FC,Schade,Delantero,210,3860000,38,19,19,5.53
+West Ham United,Wan-Bissaka,Defensa,208,5210000,36,17,19,5.78
+West Ham United,Soucek,Centrocampista,207,5620000,35,18,17,5.91
+AFC Bournemouth,Kerkez,Defensa,207,5450000,38,19,19,5.45
+Chelsea,Cucurella,Defensa,207,5230000,36,19,17,5.75
+Tottenham,Heung-Min Son,Delantero,206,7680000,30,17,13,6.87
+Tottenham,Brennan Johnson,Delantero,206,5590000,33,17,16,6.24
+Fulham,Antonee Robinson,Defensa,206,5420000,36,18,18,5.72
+Arsenal,Bukayo Saka,Delantero,204,11530000,25,13,12,8.16
+Arsenal,Ødegaard,Centrocampista,204,10320000,30,16,14,6.8
+Manchester City,Aït Nouri,Centrocampista,204,6120000,37,19,18,5.51
+Aston Villa,Rogers,Delantero,203,6440000,37,18,19,5.49
+Tottenham,Pedro Porro,Defensa,203,5010000,33,19,14,6.15
+Newcastle,Tonali,Centrocampista,202,7770000,36,18,18,5.61
+Crystal Palace,Mateta,Delantero,202,5070000,37,18,19,5.46
+Brentford FC,Nørgaard,Centrocampista,202,4990000,34,17,17,5.94
+Nottingham Forest,Sels,Portero,202,3590000,38,19,19,5.32
+Brighton & Hove Albion,Mitoma,Delantero,201,4120000,36,17,19,5.58
+Manchester City,De Bruyne,Centrocampista,199,6520000,28,14,14,7.11
+Manchester United,Amad Diallo,Delantero,199,5180000,26,14,12,7.65
+Newcastle,Harvey Barnes,Delantero,197,4750000,33,16,17,5.97
+Crystal Palace,Marc Guehi,Defensa,193,4960000,34,17,17,5.68
+Newcastle,Anthony Gordon,Delantero,192,6190000,34,18,16,5.65
+Nottingham Forest,Elliot Anderson,Centrocampista,190,4350000,37,19,18,5.14
+Wolverhampton,Larsen,Delantero,190,4140000,35,18,17,5.43
+Aston Villa,Emiliano Martínez,Portero,190,4110000,37,19,18,5.14
+Liverpool,Gravenberch,Centrocampista,189,8350000,37,19,18,5.11
+AFC Bournemouth,Evanilson,Delantero,189,4760000,31,16,15,6.1
+AFC Bournemouth,Ouattara,Delantero,189,3200000,32,15,17,5.91
+Everton,Iliman Ndiaye,Delantero,187,4410000,33,17,16,5.67
+Chelsea,Liam Delap,Delantero,186,3250000,37,18,19,5.03
+Manchester City,Foden,Centrocampista,185,9670000,28,12,16,6.61
+Chelsea,Pedro Neto,Delantero,185,5360000,35,18,17,5.29
+Arsenal,David Raya,Portero,185,4470000,38,19,19,4.87
+Arsenal,Magalhães,Defensa,185,3480000,28,14,14,6.61
+Manchester City,Jérémy Doku,Delantero,184,5350000,29,14,15,6.34
+Arsenal,Saliba,Defensa,182,6090000,35,17,18,5.2
+Nottingham Forest,Hudson-Odoi,Delantero,182,4000000,31,16,15,5.87
+Brighton & Hove Albion,João Pedro,Delantero,181,5160000,27,13,14,6.7
+Everton,Gueye,Centrocampista,180,4240000,37,19,18,4.86
+Crystal Palace,Maxence Lacroix,Defensa,179,4240000,35,18,17,5.11
+Brighton & Hove Albion,Van Hecke,Defensa,179,3760000,34,16,18,5.26
+AFC Bournemouth,Lewis Cook,Centrocampista,179,3710000,36,18,18,4.97
+Manchester City,Sávio,Delantero,178,5560000,29,14,15,6.14
+Arsenal,Martinelli,Delantero,177,6710000,33,17,16,5.36
+Chelsea,Madueke,Delantero,177,4450000,32,15,17,5.53
+Nottingham Forest,Neco Williams,Defensa,177,4040000,35,17,18,5.06
+Newcastle,Dan Burn,Defensa,177,3590000,37,18,19,4.78
+Fulham,Leno,Portero,175,3330000,38,19,19,4.61
+Brighton & Hove Albion,Baleba,Centrocampista,174,3690000,34,18,16,5.12
+West Ham United,Kilman,Defensa,174,3440000,38,19,19,4.58
+Brighton & Hove Albion,Welbeck,Delantero,174,3190000,30,16,14,5.8
+Chelsea,Colwill,Defensa,173,3690000,35,18,17,4.94
+Manchester City,Gündogan,Centrocampista,172,4460000,33,19,14,5.21
+Everton,Mykolenko,Defensa,172,4400000,35,17,18,4.91
+Newcastle,Schär,Defensa,172,3910000,34,17,17,5.06
+Fulham,Emile Smith,Centrocampista,170,3520000,34,17,17,5
+Arsenal,Merino,Centrocampista,168,4840000,28,14,14,6
+Liverpool,Konaté,Defensa,168,4320000,31,16,15,5.42
+Crystal Palace,Mitchell,Defensa,168,3500000,37,18,19,4.54
+Manchester United,Mazraoui,Defensa,166,4210000,37,19,18,4.49
+AFC Bournemouth,Kepa,Portero,166,3170000,31,15,16,5.35
+Chelsea,Nicolas Jackson,Delantero,165,4820000,30,16,14,5.5
+Tottenham,Kulusevski,Delantero,165,3380000,32,16,16,5.16
+Brighton & Hove Albion,Yankuba Minteh,Delantero,165,2860000,32,16,16,5.16
+Newcastle,Lewis Hall,Defensa,163,2790000,27,13,14,6.04
+AFC Bournemouth,Tavernier,Centrocampista,162,3940000,29,15,14,5.59
+Brentford FC,Lewis-Potter,Defensa,162,3360000,38,19,19,4.26
+Wolverhampton,João Gomes,Centrocampista,160,3540000,36,17,19,4.44
+AFC Bournemouth,Zabarnyi,Defensa,159,3820000,36,19,17,4.42
+Crystal Palace,Henderson,Portero,159,3350000,38,19,19,4.18
+West Ham United,Lucas Paquetá,Centrocampista,158,4470000,33,18,15,4.79
+Manchester United,Garnacho,Delantero,158,4410000,36,18,18,4.39
+Manchester United,Diogo Dalot,Defensa,158,3140000,33,17,16,4.79
+Aston Villa,Konsa,Defensa,156,3890000,34,16,18,4.59
+Newcastle,Livramento,Defensa,156,3690000,37,18,19,4.22
+Tottenham,Pape Sarr,Centrocampista,156,3390000,36,19,17,4.33
+Chelsea,Jadon Sancho,Delantero,155,3430000,31,14,17,5
+AFC Bournemouth,Ryan Christie,Centrocampista,155,3150000,29,14,15,5.34
+Fulham,Adama Traoré,Delantero,155,2170000,36,19,17,4.31
+Fulham,Harry Wilson,Centrocampista,154,3370000,25,13,12,6.16
+Nottingham Forest,Aina,Defensa,154,3070000,35,18,17,4.4
+Liverpool,Curtis Jones,Centrocampista,153,3990000,33,16,17,4.64
+Fulham,Pereira,Centrocampista,153,3420000,33,18,15,4.64
+Aston Villa,Lucas Digne,Defensa,153,3300000,32,15,17,4.78
+Aston Villa,John McGinn,Centrocampista,152,4660000,34,18,16,4.47
+Newcastle,Joelinton,Centrocampista,152,3560000,29,15,14,5.24
+Chelsea,Robert Sánchez,Portero,152,3250000,32,17,15,4.75
+Brighton & Hove Albion,Estupiñán,Defensa,151,3840000,30,15,15,5.03
+Brighton & Hove Albion,Yasin Ayari,Centrocampista,151,2530000,34,17,17,4.44
+Fulham,Joachim Andersen,Defensa,149,3510000,30,15,15,4.97
+Fulham,Rodrigo Muniz,Delantero,149,2590000,31,15,16,4.81
+Manchester City,Rúben Dias,Defensa,148,4170000,27,14,13,5.48
+Wolverhampton,Bellegarde,Centrocampista,147,2720000,35,19,16,4.2
+Arsenal,Timber,Defensa,146,3830000,30,16,14,4.87
+Everton,Branthwaite,Defensa,146,3570000,30,16,14,4.87
+Manchester United,André Onana,Portero,146,3210000,34,17,17,4.29
+Brighton & Hove Albion,Verbruggen,Portero,146,3050000,36,18,18,4.06
+Wolverhampton,Doherty,Defensa,146,1880000,30,15,15,4.87
+Nottingham Forest,Domínguez,Centrocampista,145,3030000,34,17,17,4.26
+Newcastle,Pope,Portero,144,3080000,28,14,14,5.14
+Liverpool,Alisson,Portero,143,3450000,28,13,15,5.11
+Nottingham Forest,Yates,Centrocampista,143,2870000,35,18,17,4.09
+Arsenal,Kai Havertz,Delantero,142,4160000,23,12,11,6.17
+Wolverhampton,André,Centrocampista,142,3970000,33,15,18,4.3
+Tottenham,Solanke,Delantero,142,3810000,27,13,14,5.26
+Fulham,Bassey,Defensa,142,3050000,35,18,17,4.06
+West Ham United,Kudus,Delantero,141,4010000,32,16,16,4.41
+Everton,Ashley Young,Defensa,140,1710000,32,16,16,4.38
+Chelsea,Chalobah,Defensa,139,3040000,25,13,12,5.56
+Brentford FC,Sepp van den Berg,Defensa,139,2920000,31,15,16,4.48
+Liverpool,Robertson,Defensa,138,3550000,33,17,16,4.18
+Everton,McNeil,Centrocampista,137,4100000,21,11,10,6.52
+Manchester United,Casemiro,Centrocampista,137,3500000,24,12,12,5.71
+Manchester United,De Ligt,Defensa,136,2980000,29,14,15,4.69
+Manchester City,Ederson,Portero,135,3150000,26,14,12,5.19
+Brentford FC,Janelt,Centrocampista,135,2220000,32,16,16,4.22
+Everton,Beto,Delantero,135,2190000,30,15,15,4.5
+Aston Villa,Rashford,Delantero,134,4380000,25,13,12,5.36
+Crystal Palace,Jefferson Lerma,Centrocampista,132,2860000,33,17,16,4
+Arsenal,Nwaneri,Centrocampista,131,3030000,26,11,15,5.04
+Manchester City,Matheus Nunes,Centrocampista,130,3570000,26,12,14,5
+Everton,Abdoulaye Doucouré,Centrocampista,130,2700000,33,18,15,3.94
+Chelsea,Malo Gusto,Defensa,129,2270000,32,16,16,4.03
+Aston Villa,Amadou Onana,Centrocampista,128,4290000,26,10,16,4.92
+Wolverhampton,Toti Gomes,Defensa,128,3270000,31,16,15,4.13
+Brighton & Hove Albion,Hinshelwood,Centrocampista,128,3020000,26,14,12,4.92
+Brighton & Hove Albion,Georginio Rutter,Delantero,128,2130000,28,14,14,4.57
+Aston Villa,Jacob Ramsey,Centrocampista,127,3240000,29,13,16,4.38
+Fulham,Lukic,Centrocampista,127,2660000,30,14,16,4.23
+West Ham United,Mavropanos,Defensa,127,2130000,33,15,18,3.85
+Liverpool,Darwin Núñez,Delantero,126,3380000,30,18,12,4.2
+Aston Villa,Matty Cash,Defensa,124,3220000,27,13,14,4.59
+Fulham,Sander Berge,Centrocampista,124,2860000,31,15,16,4
+Manchester City,Rico Lewis,Defensa,124,2560000,28,14,14,4.43
+Tottenham,Vicario,Portero,122,3080000,24,12,12,5.08
+Tottenham,Bentancur,Centrocampista,121,3170000,26,14,12,4.65
+Wolverhampton,Nélson Semedo,Defensa,121,2300000,34,17,17,3.56
+Manchester United,Maguire,Defensa,121,2270000,27,13,14,4.48
+West Ham United,Emerson,Defensa,120,2310000,31,17,14,3.87
+Crystal Palace,Will Hughes,Centrocampista,120,2040000,33,15,18,3.64
+Crystal Palace,Daichi Kamada,Centrocampista,119,2470000,34,17,17,3.5
+Manchester United,Lisandro Martínez,Defensa,119,2080000,20,12,8,5.95
+Nottingham Forest,Jota Silva,Delantero,119,1400000,31,15,16,3.84
+Manchester City,Omar Marmoush,Delantero,117,6820000,16,9,7,7.31
+Manchester United,Manuel Ugarte,Centrocampista,117,3210000,29,14,15,4.03
+West Ham United,Ward-Prowse,Centrocampista,117,2170000,24,11,13,4.88
+Manchester City,Akanji,Defensa,116,3320000,26,13,13,4.46
+AFC Bournemouth,Tyler Adams,Centrocampista,116,2660000,28,15,13,4.14
+Chelsea,Nkunku,Delantero,115,2790000,27,13,14,4.26
+Liverpool,Diogo Jota,Delantero,113,3460000,26,14,12,4.35
+Newcastle,Trippier,Defensa,112,2590000,25,12,13,4.48
+Aston Villa,Ian Maatsen,Defensa,111,2660000,29,18,11,3.83
+Tottenham,Udogie,Defensa,111,2630000,25,12,13,4.44
+Aston Villa,Kamara,Centrocampista,109,3140000,26,12,14,4.19
+Brentford FC,Yarmolyuk,Centrocampista,109,1310000,31,13,18,3.52
+Fulham,Kenny Tete,Defensa,108,2490000,22,11,11,4.91
+Everton,Jack Harrison,Delantero,108,1760000,34,17,17,3.18
+Brentford FC,Pinnock,Defensa,107,2330000,22,10,12,4.86
+Chelsea,Adarabioyo,Defensa,107,2100000,22,11,11,4.86
+AFC Bournemouth,David Brooks,Centrocampista,107,1240000,29,13,16,3.69
+West Ham United,Areola,Portero,106,2080000,26,12,14,4.08
+Fulham,Cairney,Centrocampista,105,950000,25,14,11,4.2
+Manchester United,Højlund,Delantero,104,2430000,32,16,16,3.25
+Wolverhampton,José Sá,Portero,104,2160000,29,16,13,3.59
+Manchester United,Joshua Zirkzee,Delantero,103,1960000,32,16,16,3.22
+Brighton & Hove Albion,Mats Wieffer,Centrocampista,102,3060000,25,11,14,4.08
+Newcastle,Willock,Centrocampista,102,2090000,32,15,17,3.19
+Manchester United,Eriksen,Centrocampista,102,1950000,23,12,11,4.43
+Tottenham,Djed Spence,Defensa,102,1730000,25,10,15,4.08
+Crystal Palace,Nketiah,Delantero,101,1280000,29,17,12,3.48
+Brighton & Hove Albion,Dunk,Defensa,99,1800000,25,12,13,3.96
+West Ham United,Carlos Soler,Centrocampista,99,1790000,31,16,15,3.19
+Brighton & Hove Albion,Adingra,Delantero,98,1960000,29,15,14,3.38
+Crystal Palace,Chris Richards,Defensa,97,1870000,24,12,12,4.04
+Everton,Garner,Centrocampista,96,3120000,21,10,11,4.57
+Everton,Jake O'Brien,Defensa,96,1460000,20,10,10,4.8
+Tottenham,Cristian Romero,Defensa,95,3370000,18,10,8,5.28
+Brighton & Hove Albion,Matt O'Riley,Centrocampista,95,2800000,21,11,10,4.52
+West Ham United,Edson Álvarez,Centrocampista,95,1760000,28,15,13,3.39
+Wolverhampton,Sarabia,Delantero,95,1100000,23,12,11,4.13
+Crystal Palace,Wharton,Centrocampista,94,3140000,20,11,9,4.7
+Tottenham,Bissouma,Centrocampista,93,2040000,28,15,13,3.32
+Brentford FC,Jensen,Centrocampista,93,1900000,24,14,10,3.88
+Arsenal,Calafiori,Defensa,92,2960000,19,7,12,4.84
+Everton,Calvert-Lewin,Delantero,92,1910000,26,13,13,3.54
+Fulham,Castagne,Defensa,92,1910000,24,12,12,3.83
+Wolverhampton,Rodrigo Gomes,Defensa,92,1290000,25,11,14,3.68
+Wolverhampton,Gonçalo Guedes,Delantero,92,1100000,29,14,15,3.17
+Chelsea,Reece James,Defensa,91,2810000,19,9,10,4.79
+Manchester City,Grealish,Delantero,91,2200000,20,11,9,4.55
+Tottenham,Lucas Bergvall,Centrocampista,91,1880000,27,12,15,3.37
+Aston Villa,Barkley,Centrocampista,91,1470000,20,13,7,4.55
+Everton,Carlos Alcaraz,Centrocampista,90,2290000,16,7,9,5.63
+Brighton & Hove Albion,Veltman,Defensa,89,1720000,21,11,10,4.24
+Manchester United,Mainoo,Centrocampista,88,2970000,25,13,12,3.52
+Arsenal,Lewis-Skelly,Defensa,87,1580000,23,13,10,3.78
+Wolverhampton,Agbadou,Defensa,86,2680000,16,8,8,5.38
+Liverpool,Tsimikas,Defensa,86,1830000,18,6,12,4.78
+Wolverhampton,Santiago Bueno,Defensa,86,1550000,29,15,14,2.97
+Brighton & Hove Albion,Brajan Gruda,Delantero,86,1150000,21,12,9,4.1
+West Ham United,Füllkrug,Delantero,85,2020000,18,8,10,4.72
+Aston Villa,Leon Bailey,Delantero,85,1930000,24,12,12,3.54
+Aston Villa,Pau Torres,Defensa,84,2890000,24,11,13,3.5
+Everton,Orel Mangala,Centrocampista,84,1770000,19,9,10,4.42
+West Ham United,Todibo,Defensa,83,1850000,27,14,13,3.07
+Everton,Lindstrøm,Centrocampista,82,1720000,25,12,13,3.28
+Fulham,Sessegnon,Centrocampista,82,1310000,16,6,10,5.13
+Arsenal,Ben White,Defensa,80,3070000,17,6,11,4.71
+Aston Villa,Marco Asensio,Delantero,78,3450000,13,7,6,6
+Arsenal,Kiwior,Defensa,77,2430000,17,9,8,4.53
+Arsenal,Gabriel Jesus,Delantero,75,1970000,17,7,10,4.41
+West Ham United,Crysencio Summerville,Delantero,75,1430000,19,10,9,3.95
+Nottingham Forest,Morato,Defensa,75,1380000,26,10,16,2.88
+Brentford FC,Kristoffer Ajer,Defensa,74,1800000,24,12,12,3.08
+Newcastle,Longstaff,Centrocampista,74,1750000,25,11,14,2.96
+Everton,Michael Keane,Defensa,74,1150000,14,7,7,5.29
+West Ham United,Fabianski,Portero,73,1170000,14,8,6,5.21
+West Ham United,Guido Rodríguez,Centrocampista,72,1660000,23,12,11,3.13
+Liverpool,Harvey Elliott,Centrocampista,71,2570000,18,10,8,3.94
+AFC Bournemouth,Alex Scott,Centrocampista,71,1650000,20,10,10,3.55
+Tottenham,Ben Davies,Defensa,71,1490000,17,8,9,4.18
+AFC Bournemouth,Adam Smith,Defensa,71,1070000,25,13,12,2.84
+Liverpool,Bradley,Defensa,70,2280000,19,9,10,3.68
+Tottenham,Archie Gray,Defensa,70,1740000,28,15,13,2.5
+West Ham United,Cresswell,Defensa,68,850000,18,10,8,3.78
+Wolverhampton,Munetsi,Centrocampista,67,2030000,14,7,7,4.79
+AFC Bournemouth,Senesi,Defensa,67,1720000,17,11,6,3.94
+Aston Villa,Mings,Defensa,67,1510000,14,9,5,4.79
+Fulham,Issa Diop,Defensa,67,1480000,21,9,12,3.19
+West Ham United,Coufal,Defensa,65,1200000,22,9,13,2.95
+Wolverhampton,Doyle,Centrocampista,65,890000,24,12,12,2.71
+Tottenham,Mathys Tel,Delantero,64,1900000,13,6,7,4.92
+Manchester United,Leny Yoro,Defensa,63,2340000,21,11,10,3
+Wolverhampton,Hwang,Delantero,62,1180000,21,11,10,2.95
+AFC Bournemouth,Enes Ünal,Delantero,62,830000,17,9,8,3.65
+Brentford FC,Fabio Carvalho,Centrocampista,61,1100000,19,10,9,3.21
+West Ham United,Evan Ferguson,Delantero,61,1070000,21,10,11,2.9
+Chelsea,Wesley Fofana,Defensa,60,1930000,14,8,6,4.29
+Fulham,Reiss Nelson,Delantero,60,1250000,12,6,6,5
+Brighton & Hove Albion,Diego Gómez,Centrocampista,59,1110000,16,8,8,3.69
+Nottingham Forest,Ramón Sosa,Delantero,59,1040000,19,10,9,3.11
+West Ham United,Ings,Delantero,59,710000,15,8,7,3.93
+Manchester United,Mason Mount,Centrocampista,58,2190000,17,8,9,3.41
+Tottenham,Timo Werner,Delantero,58,1260000,18,9,9,3.22
+Crystal Palace,Justin Devenny,Centrocampista,58,600000,23,9,14,2.52
+Tottenham,Richarlison,Delantero,57,1910000,15,6,9,3.8
+Brighton & Hove Albion,Webster,Defensa,57,1090000,14,7,7,4.07
+Aston Villa,Donyell Malen,Delantero,56,3110000,14,8,6,4
+Nottingham Forest,Awoniyi,Delantero,55,800000,26,15,11,2.12
+Arsenal,Sterling,Delantero,54,1690000,17,9,8,3.18
+Manchester United,Patrick Dorgu,Defensa,54,1220000,12,5,7,4.5
+Arsenal,Zinchenko,Defensa,53,1850000,15,8,7,3.53
+Brighton & Hove Albion,Lamptey,Defensa,53,1210000,15,7,8,3.53
+Manchester City,Stones,Defensa,52,1980000,11,8,3,4.73
+Manchester City,Stefan Ortega,Portero,52,1300000,13,6,7,4
+Newcastle,Dubravka,Portero,52,1160000,10,5,5,5.2
+Manchester City,McAtee,Centrocampista,52,1050000,15,9,6,3.47
+Arsenal,Kieran Tierney,Defensa,51,1090000,13,5,8,3.92
+Tottenham,Van de Ven,Defensa,50,2010000,13,8,5,3.85
+Nottingham Forest,Sangaré,Centrocampista,50,1700000,13,8,5,3.85
+Aston Villa,Axel Disasi,Defensa,50,1690000,13,4,9,3.85
+Everton,Iroegbunam,Centrocampista,50,660000,18,10,8,2.78
+West Ham United,Oliver Scarles,Defensa,50,590000,15,8,7,3.33
+Tottenham,Drăgușin,Defensa,49,1710000,16,8,8,3.06
+Manchester City,Nico O'Reilly,Centrocampista,49,1540000,9,5,4,5.44
+Nottingham Forest,Álex Moreno,Defensa,49,1520000,15,8,7,3.27
+Liverpool,Wataru Endo,Centrocampista,49,980000,20,12,8,2.45
+AFC Bournemouth,Sinisterra,Delantero,49,940000,12,5,7,4.08
+Chelsea,Roméo Lavia,Centrocampista,48,1990000,16,9,7,3
+Brentford FC,Michael Kayode,Defensa,48,1080000,12,6,6,4
+Manchester City,Nico González,Centrocampista,47,3180000,11,7,4,4.27
+Wolverhampton,Dawson,Defensa,45,870000,15,7,8,3
+Brighton & Hove Albion,Igor,Defensa,44,1610000,13,5,8,3.38
+Manchester United,Lindelöf,Defensa,44,1180000,16,8,8,2.75
+West Ham United,Michail Antonio,Delantero,44,980000,14,7,7,3.14
+Tottenham,Kevin Danso,Defensa,43,2390000,10,6,4,4.3
+Tottenham,Odobert,Delantero,43,960000,16,9,7,2.69
+Liverpool,Kelleher,Portero,42,1790000,10,6,4,4.2
+Newcastle,Lewis Miley,Centrocampista,42,830000,14,8,6,3
+Tottenham,Antonín Kinský,Portero,40,1700000,6,2,4,6.67
+AFC Bournemouth,Jebbison,Delantero,39,580000,16,9,7,2.44
+Manchester City,Ake,Defensa,38,1850000,10,5,5,3.8
+Crystal Palace,Cheick Doucouré,Centrocampista,38,1620000,13,5,8,2.92
+Chelsea,Dewsbury-Hall,Centrocampista,38,1270000,13,5,8,2.92
+Crystal Palace,Chilwell,Defensa,38,1010000,8,4,4,4.75
+Tottenham,Forster,Portero,38,810000,7,4,3,5.43
+Liverpool,Joe Gomez,Defensa,37,1680000,9,5,4,4.11
+Newcastle,Osula,Delantero,37,600000,14,8,6,2.64
+West Ham United,Luis Guilherme,Delantero,35,630000,12,8,4,2.92
+Newcastle,Botman,Defensa,34,2590000,8,5,3,4.25
+Liverpool,Quansah,Defensa,32,1600000,13,6,7,2.46
+Fulham,Willian,Delantero,32,930000,10,4,6,3.2
+Crystal Palace,Romain Esse,Centrocampista,31,1090000,7,3,4,4.43
+Newcastle,Callum Wilson,Delantero,31,740000,18,9,9,1.72
+Newcastle,Krafth,Defensa,31,740000,12,6,6,2.58
+Manchester United,Jonny Evans,Defensa,30,730000,7,4,3,4.29
+Chelsea,Tyrique George,Delantero,30,570000,8,5,3,3.75
+AFC Bournemouth,James Hill,Defensa,30,520000,10,3,7,3
+Brighton & Hove Albion,Kadıoğlu,Defensa,28,1600000,6,3,3,4.67
+Wolverhampton,Johnstone,Portero,28,1040000,7,3,4,4
+Everton,Patterson,Defensa,28,830000,10,5,5,2.8
+West Ham United,Andy Irving,Centrocampista,28,540000,10,5,5,2.8
+Everton,Armando Broja,Delantero,27,680000,10,5,5,2.7
+Crystal Palace,Clyne,Defensa,27,550000,13,4,9,2.08
+Manchester United,Shaw,Defensa,26,1920000,7,2,5,3.71
+Manchester United,Toby Collyer,Centrocampista,26,510000,6,4,2,4.33
+Brentford FC,Igor Thiago,Delantero,25,1630000,8,4,4,3.13
+Wolverhampton,Yerson Mosquera,Defensa,24,1110000,5,2,3,4.8
+AFC Bournemouth,Julián Araujo,Defensa,24,870000,12,4,8,2
+Tottenham,Mikey Moore,Delantero,23,660000,10,3,7,2.3
+Aston Villa,Lamare Bogarde,Centrocampista,23,550000,8,4,4,2.88
+Manchester City,Khusanov,Defensa,22,1430000,6,4,2,3.67
+Brighton & Hove Albion,March,Centrocampista,21,1810000,8,5,3,2.63
+Chelsea,Mudryk,Delantero,21,1610000,7,5,2,3
+Fulham,Reed,Centrocampista,21,540000,12,5,7,1.75
+Brentford FC,Paris Maghoma,Centrocampista,21,460000,8,4,4,2.63
+Chelsea,Badiashile,Defensa,20,1610000,5,1,4,4
+Crystal Palace,Matheus França,Centrocampista,20,540000,4,1,3,5
+Fulham,Joshua King,Centrocampista,20,440000,8,5,3,2.5
+Chelsea,Jørgensen,Portero,19,1660000,6,2,4,3.17
+Nottingham Forest,Danilo,Centrocampista,19,1640000,8,4,4,2.38
+Wolverhampton,Carlos Forbs,Delantero,19,620000,10,6,4,1.9
+Arsenal,Neto,Portero,18,1400000,2,1,1,9
+Manchester United,Ayden Heaven,Defensa,17,390000,4,2,2,4.25
+Manchester United,Obi-Martin,Delantero,16,500000,7,2,5,2.29
+Nottingham Forest,Willy Boly,Defensa,15,650000,6,3,3,2.5
+Brentford FC,Mee,Defensa,15,630000,7,3,4,2.14
+Everton,Coleman,Defensa,15,510000,5,3,2,3
+Tottenham,Reguilón,Defensa,14,910000,4,3,1,3.5
+Nottingham Forest,Toffolo,Defensa,14,520000,4,1,3,3.5
+Manchester United,Harry Amass,Defensa,14,410000,5,2,3,2.8
+Fulham,Jorge Cuenca,Defensa,13,810000,8,3,5,1.63
+Aston Villa,Robin Olsen,Portero,13,760000,4,0,4,3.25
+Brighton & Hove Albion,Milner,Centrocampista,13,680000,4,1,3,3.25
+Aston Villa,Andrés García,Defensa,13,530000,7,4,3,1.86
+Manchester City,Rodrigo,Centrocampista,12,3180000,3,3,0,4
+Liverpool,Chiesa,Delantero,12,1660000,6,2,4,2
+Brighton & Hove Albion,Steele,Portero,11,840000,2,1,1,5.5
+Tottenham,Dane Scarlett,Delantero,10,540000,3,0,3,3.33
+Wolverhampton,Bentley,Portero,9,670000,2,0,2,4.5
+Manchester United,Tyler Fredricson,Defensa,9,570000,2,1,1,4.5
+Fulham,Carlos Vinícius,Delantero,9,560000,3,2,1,3
+Everton,Chermiti,Delantero,9,560000,4,2,2,2.25
+Chelsea,Acheampong,Defensa,9,470000,4,3,1,2.25
+Manchester United,Bayindir,Portero,8,800000,4,2,2,2
+Wolverhampton,Pedro Lima,Defensa,8,430000,3,1,2,2.67
+Brentford FC,Konak,Centrocampista,8,390000,10,5,5,0.8
+Brentford FC,Rico Henry,Defensa,7,1610000,5,4,1,1.4
+Manchester City,Oscar Bobb,Centrocampista,7,1570000,3,3,0,2.33
+Chelsea,Marc Guiu,Delantero,7,550000,3,2,1,2.33
+AFC Bournemouth,Ben Winterburn,Centrocampista,7,370000,4,1,3,1.75
+West Ham United,Lewis Orford,Centrocampista,7,370000,2,1,1,3.5
+Brentford FC,Valdimarsson,Portero,6,690000,2,1,1,3
+Newcastle,Targett,Defensa,6,530000,2,1,1,3
+Fulham,Martial Godo,Delantero,6,500000,2,2,0,3
+Tottenham,Brandon Austin,Portero,6,440000,1,1,0,6
+Liverpool,Vitezslav Jaros,Portero,5,630000,1,0,1,5
+AFC Bournemouth,Julio Soler,Defensa,5,430000,3,2,1,1.67
+Crystal Palace,Caleb Kporha,Defensa,5,410000,2,2,0,2.5
+Brentford FC,Gustavo Nunes,Delantero,4,690000,3,2,1,1.33
+Brentford FC,Ji-soo Kim,Defensa,4,380000,3,2,1,1.33
+Arsenal,Tomiyasu,Defensa,3,1610000,1,1,0,3
+Crystal Palace,Chadi Riad,Defensa,3,940000,1,1,0,3
+Brentford FC,Trevitt,Centrocampista,3,440000,1,0,1,3
+Tottenham,Dorrington,Defensa,3,390000,1,0,1,3
+Manchester City,Echeverri,Centrocampista,2,1170000,1,0,1,2
+Wolverhampton,Nasser Djiga,Defensa,2,790000,5,0,5,0.4
+Brighton & Hove Albion,Jeremy Sarmiento,Delantero,2,650000,1,0,1,2
+Nottingham Forest,Da Silva Moreira,Delantero,2,490000,2,1,1,1
+Tottenham,Will Lankshear,Delantero,2,450000,3,2,1,0.67
+Crystal Palace,Joel Ward,Defensa,2,430000,2,2,0,1
+Chelsea,Mathis Amougou,Centrocampista,2,430000,1,1,0,2
+Everton,Roman Dixon,Defensa,1,410000,1,0,1,1
+Manchester City,Reijnders,Centrocampista,0,10660000,0,0,0,0
+Chelsea,Andrey Santos,Centrocampista,0,10080000,0,0,0,0
+Manchester City,Rayan Cherki,Delantero,0,8240000,0,0,0,0
+Sunderland,Trai Hume,Defensa,0,2210000,0,0,0,0
+Sunderland,Dan Neil,Centrocampista,0,2180000,0,0,0,0
+Sunderland,Patterson,Portero,0,2130000,0,0,0,0
+Sunderland,Enzo Le Fée,Centrocampista,0,2100000,0,0,0,0
+Sunderland,Chris Rigg,Centrocampista,0,1940000,0,0,0,0
+Brentford FC,Hickey,Defensa,0,1580000,0,0,0,0
+Chelsea,Mike Penders,Portero,0,1570000,0,0,0,0
+Newcastle,Vlachodimos,Portero,0,1560000,0,0,0,0
+Manchester City,Vitor Reis,Defensa,0,1500000,1,1,0,0
+Sunderland,Patrick Roberts,Delantero,0,1180000,0,0,0,0
+Sunderland,Dennis Cirkin,Defensa,0,1160000,0,0,0,0
+Crystal Palace,Turner,Portero,0,1010000,0,0,0,0
+Sunderland,Luke O'Nien,Defensa,0,980000,0,0,0,0
+Chelsea,Dário Essugo,Centrocampista,0,930000,0,0,0,0
+Chelsea,Mamadou Sarr,Defensa,0,910000,0,0,0,0
+Brighton & Hove Albion,Eiran Cashin,Defensa,0,880000,2,1,1,0
+Sunderland,Daniel Ballard,Defensa,0,830000,0,0,0,0
+Liverpool,Tyler Morton,Centrocampista,0,810000,0,0,0,0
+Sunderland,Eliezer Mayenda,Delantero,0,810000,0,0,0,0
+Newcastle,Lascelles,Defensa,0,800000,0,0,0,0
+Sunderland,Alan Browne,Centrocampista,0,800000,0,0,0,0
+Sunderland,Wilson Isidor,Delantero,0,790000,0,0,0,0
+Nottingham Forest,Carlos Miguel,Portero,0,770000,0,0,0,0
+Newcastle,Jamal Lewis,Defensa,0,750000,0,0,0,0
+Chelsea,David Fofana,Delantero,0,720000,0,0,0,0
+Wolverhampton,Sasa Kalajdzic,Delantero,0,700000,0,0,0,0
+Sunderland,Romaine Mundle,Delantero,0,690000,0,0,0,0
+Brighton & Hove Albion,Carl Rushworth,Portero,0,670000,0,0,0,0
+Sunderland,Adil Aouchiche,Centrocampista,0,640000,0,0,0,0
+Newcastle,John Ruddy,Portero,0,630000,0,0,0,0
+Wolverhampton,Chem Campbell,Delantero,0,620000,0,0,0,0
+Sunderland,Abdul Samed,Centrocampista,0,580000,0,0,0,0
+Sunderland,Tom Watson,Delantero,0,560000,0,0,0,0
+Sunderland,Jay Matete,Centrocampista,0,550000,0,0,0,0
+Crystal Palace,Whitworth,Portero,0,530000,0,0,0,0
+Sunderland,Ian Poveda,Delantero,0,520000,0,0,0,0
+Brentford FC,Dasilva,Centrocampista,0,510000,0,0,0,0
+Crystal Palace,David Ozoh,Centrocampista,0,510000,0,0,0,0
+Brighton & Hove Albion,Offiah,Defensa,0,510000,0,0,0,0
+Sunderland,Aji Alese,Defensa,0,510000,0,0,0,0
+Everton,Begovic,Portero,0,500000,0,0,0,0
+Crystal Palace,Malcolm Ebiowei,Delantero,0,490000,0,0,0,0
+West Ham United,Foderingham,Portero,0,490000,0,0,0,0
+Brighton & Hove Albion,Cozier-Duberry,Delantero,0,490000,0,0,0,0
+Sunderland,Ahmed Abdullahi,Delantero,0,490000,0,0,0,0
+Wolverhampton,Enso González,Delantero,0,480000,0,0,0,0
+Sunderland,Niall Huggins,Delantero,0,470000,0,0,0,0
+Sunderland,Milan Aleksic,Centrocampista,0,470000,0,0,0,0
+Manchester United,Heaton,Portero,0,460000,0,0,0,0
+Newcastle,Garang Kuol,Delantero,0,460000,0,0,0,0
+Brentford FC,Myles Peart-Harris,Centrocampista,0,460000,0,0,0,0
+AFC Bournemouth,Will Dennis,Portero,0,460000,0,0,0,0
+Wolverhampton,Joe Hodge,Centrocampista,0,460000,0,0,0,0
+Wolverhampton,Fraser,Delantero,0,460000,0,0,0,0
+Everton,João Virgínia,Portero,0,450000,0,0,0,0
+Sunderland,Leo Fuhr Hjelde,Defensa,0,450000,0,0,0,0
+Wolverhampton,Boubacar Traore,Centrocampista,0,450000,1,1,0,0
+Nottingham Forest,Joel Ndala,Delantero,0,450000,0,0,0,0
+Sunderland,Jenson Seelt,Defensa,0,450000,0,0,0,0
+Sunderland,Joe Anderson,Defensa,0,450000,0,0,0,0
+Sunderland,Simon Moore,Portero,0,430000,0,0,0,0
+Sunderland,Nathan Bishop,Portero,0,430000,0,0,0,0
+Brentford FC,Matthew Cox,Portero,0,430000,0,0,0,0
+Nottingham Forest,Hennessey,Portero,0,420000,0,0,0,0
+Brighton & Hove Albion,Tom McGill,Portero,0,420000,0,0,0,0
+Wolverhampton,Chirewa,Centrocampista,0,420000,0,0,0,0
+Chelsea,Aarón Anselmino,Defensa,0,420000,0,0,0,0
+AFC Bournemouth,Silcott-Duberry,Delantero,0,420000,1,1,0,0
+Brentford FC,Winterbottom,Portero,0,410000,0,0,0,0
+Aston Villa,Kortney Hause,Defensa,0,400000,0,0,0,0
+Fulham,Benda,Portero,0,400000,0,0,0,0
+Manchester City,Bettinelli,Portero,0,380000,0,0,0,0
+Wolverhampton,Tom King,Portero,0,380000,1,1,0,0
+Chelsea,Bergström,Portero,0,380000,0,0,0,0
+West Ham United,Kaelan Casey,Defensa,0,380000,1,0,1,0
+AFC Bournemouth,Matai Akinmboni,Defensa,0,380000,0,0,0,0
+Newcastle,Gillespie,Portero,0,370000,0,0,0,0
+Liverpool,Harvey Davies,Portero,0,360000,0,0,0,0
+Wolverhampton,Meupiyou,Defensa,0,340000,0,0,0,0
+Crystal Palace,Kaden Rodney,Centrocampista,0,340000,0,0,0,0
+Tottenham,Whiteman,Portero,0,330000,0,0,0,0
+Crystal Palace,Matthews,Portero,0,330000,0,0,0,0
+Manchester City,Carson,Portero,0,300000,0,0,0,0
+Sunderland,Nna Noukeu,Portero,0,290000,0,0,0,0
